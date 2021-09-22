@@ -73,8 +73,8 @@ Direct developer email support can be purchased through a [Support Plan][4] or b
 © Arction Ltd 2009-2020. All rights reserved.
 
 
-[Map chart]: https://www.arction.com/lightningchart-js-api-documentation/v3.1.0/
-[Map types]: https://www.arction.com/lightningchart-js-api-documentation/v3.1.0/
-[Radial gradient fill]: https://www.arction.com/lightningchart-js-api-documentation/v3.1.0/
+[Map chart]: https://www.arction.com/lightningchart-js-api-documentation/v3.1.0/classes/mapchart.html
+[Map types]: https://www.arction.com/lightningchart-js-api-documentation/v3.1.0/globals.html#maptypes
+[Radial gradient fill]: https://www.arction.com/lightningchart-js-api-documentation/v3.1.0/classes/radialgradientfill.html
 [Color RGBA]: https://www.arction.com/lightningchart-js-api-documentation/v3.1.0/globals.html#colorrgba
 
