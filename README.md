@@ -41,7 +41,12 @@ const mapChart = lightningChart().Map({
 });
 ```
 
-Next examples cover extended configuration, API usage and real life scenarios.
+**More map examples**:
+
+- [Data visualization over LightningChart JS Map Charts](https://www.arction.com/lightningchart-js-interactive-examples/examples/lcjs-example-1103-mapChartVizXY.html)
+- [Data visualization over Google Maps](https://blog.arction.com/easy-geospatial-data-visualization-with-lightningchart-js-and-google)
+- [LightningChart JS Map Charts with Drill-down](https://www.arction.com/lightningchart-js-interactive-examples/examples/lcjs-example-1111-covidDrillDownDashboard.html)
+- [Data visualization over static map picture](https://www.arction.com/lightningchart-js-interactive-examples/examples/lcjs-example-1110-geoChartUsaTemperature.html)
 
 
 ## API Links
@@ -73,8 +78,8 @@ Direct developer email support can be purchased through a [Support Plan][4] or b
 © Arction Ltd 2009-2020. All rights reserved.
 
 
-[Map chart]: https://www.arction.com/lightningchart-js-api-documentation/v3.3.0/classes/mapchart.html
-[Map types]: https://www.arction.com/lightningchart-js-api-documentation/v3.3.0/globals.html#maptypes
-[Radial gradient fill]: https://www.arction.com/lightningchart-js-api-documentation/v3.3.0/classes/radialgradientfill.html
-[Color RGBA]: https://www.arction.com/lightningchart-js-api-documentation/v3.3.0/globals.html#colorrgba
+[Map chart]: https://www.arction.com/lightningchart-js-api-documentation/v3.4.0/classes/mapchart.html
+[Map types]: https://www.arction.com/lightningchart-js-api-documentation/v3.4.0/globals.html#maptypes
+[Radial gradient fill]: https://www.arction.com/lightningchart-js-api-documentation/v3.4.0/classes/radialgradientfill.html
+[Color RGBA]: https://www.arction.com/lightningchart-js-api-documentation/v3.4.0/globals.html#colorrgba
 
