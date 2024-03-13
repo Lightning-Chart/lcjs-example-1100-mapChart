@@ -1,0 +1,1 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[524],{44:(e,a,h)=>{const s=h(89),{lightningChart:n,MapTypes:t,Themes:o}=s;n().Map({theme:o[new URLSearchParams(window.location.search).get("theme")||"darkGold"]||void 0,type:t.World})}},e=>{e.O(0,[502],(()=>(44,e(e.s=44)))),e.O()}]);
