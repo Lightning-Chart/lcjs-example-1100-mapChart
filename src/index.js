@@ -10,6 +10,6 @@ const lcjs = require('@arction/lcjs')
 const { lightningChart, MapTypes, Themes } = lcjs
 
 const mapChart = lightningChart().Map({
-    theme: Themes[new URLSearchParams(window.location.search).get('theme') || 'darkGold'] || undefined
+    theme: Themes[new URLSearchParams(window.location.search).get('theme') || 'darkGold'] || undefined,
     type: MapTypes.World,
 })
