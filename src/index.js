@@ -4,7 +4,7 @@
  * Next examples cover extended configuration, API usage and real life scenarios.
  */
 // Import LightningChartJS
-const lcjs = require('@arction/lcjs')
+const lcjs = require('@lightningchart/lcjs')
 
 // Extract required parts from LightningChartJS.
 const { lightningChart, MapTypes, Themes } = lcjs
