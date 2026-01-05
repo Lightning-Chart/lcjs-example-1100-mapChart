@@ -1,6 +1,6 @@
-# Map Chart
+# Simple Map Chart Application
 
-![Map Chart](mapChart-darkGold.png)
+![Simple Map Chart Application](mapChart-darkGold.png)
 
 This demo application belongs to the set of examples for LightningChart JS, data visualization library for JavaScript.
 
