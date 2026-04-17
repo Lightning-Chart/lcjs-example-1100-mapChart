@@ -75,11 +75,11 @@ Direct developer email support can be purchased through a [Support Plan][4] or b
 [3]: https://stackoverflow.com/questions/tagged/lightningchart
 [4]: https://lightningchart.com/support-services/
 
-© LightningChart Ltd 2009-2025. All rights reserved.
+© LightningChart Ltd 2009-2026. All rights reserved.
 
 
-[Map chart]: https://lightningchart.com/js-charts/api-documentation/v8.1.0/classes/MapChart.html
-[Map types]: https://lightningchart.com/js-charts/api-documentation/v8.1.0/variables/MapTypes.html
-[Radial gradient fill]: https://lightningchart.com/js-charts/api-documentation/v8.1.0/classes/RadialGradientFill.html
-[Color RGBA]: https://lightningchart.com/js-charts/api-documentation/v8.1.0/functions/ColorRGBA.html
+[Map chart]: https://lightningchart.com/js-charts/api-documentation/v8.2.0/classes/MapChart.html
+[Map types]: https://lightningchart.com/js-charts/api-documentation/v8.2.0/variables/MapTypes.html
+[Radial gradient fill]: https://lightningchart.com/js-charts/api-documentation/v8.2.0/classes/RadialGradientFill.html
+[Color RGBA]: https://lightningchart.com/js-charts/api-documentation/v8.2.0/functions/ColorRGBA.html
 
